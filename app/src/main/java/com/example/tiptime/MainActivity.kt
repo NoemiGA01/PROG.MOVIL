@@ -153,7 +153,7 @@ fun EditNumberField(
         onValueChange = onValueChanged,
         label = { Text(stringResource(label)) },
         keyboardOptions = keyboardOptions
-    )
+    
 }
 
 @Composable
